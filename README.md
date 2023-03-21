@@ -1,6 +1,6 @@
 # Gigabyte Z690 Aero-G DDR5 , 13th Gen Intel
 
-## In this repository, I have uploaded my EFI file which was configured after weeks of hit and miss , failures and tries , so you do not have to go through the same. I highly encourage you go through the same phase ase me so you can know what is being installed into your system and use your own configured EFI file with ACPI's configured from your own hardware to have faster boots and less errors. But if you fail to do so, then you can go on use my EFI. 
+## In this repository, I have uploaded my EFI file which was configured after weeks of hit and miss , failures and tries , so you do not have to go through the same. I highly encourage you go through the same phase like me so you can know what is being installed into your system and use your own configured EFI file with ACPI's configured from your own hardware to have faster boots and less errors. But if you fail to do so, then you can go on use my EFI. 
 
 ## __GENERATE YOUR OWN VALID SYSTEM SERIAL NUMBER FROM OPENCORE CONFIGURATOR__
 
