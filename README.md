@@ -3,7 +3,7 @@
 ## In this repository, I have uploaded my EFI file which was configured after weeks of hit and miss , failures and tries , so you do not have to go through the same. I highly encourage you go through the same phase ase me so you can know what is being installed into your system and use your own configured EFI file with ACPI's configured from your own hardware to have faster boots and less errors. But if you fail to do so, then you can go on use my EFI. 
 
 ## __GENERATE YOUR OWN VALID SYSTEM SERIAL NUMBER FROM OPENCORE CONFIGURATOR__
-g
+
 ## Starter file for your own configured EFI
 1. [13th gen CPU configured EFI](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-13THGEN-RAPTOR-LAKE)
 1. [If you wanna start everything from scratch](https://github.com/acidanthera/OpenCorePkg/releases/)
